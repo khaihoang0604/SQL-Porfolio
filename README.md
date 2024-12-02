@@ -7,7 +7,7 @@ Welcome to my SQL portfolio! This repository contains a collection of my SQL pro
 - **Project: Adaventure Works Cycles**
   - **Description**: This project involves cleaning and transforming [raw company data](https://drive.google.com/file/d/1-69OzW3RjLf-opUtUxRd_Ejf1vJ8_sJi/view?usp=share_link) to prepare it for analysis. The dataset contains standard online transaction processing scenarios for a fictitious bicycle manufacturer (Adventure Works Cycles). Scenarios include Manufacturing, Sales, Purchasing, Product Management,Contact Management, and Human Resources.
   - **SQL Skills Used**: Data Cleaning, Data Transformation, Data Type Conversion, Handling Missing/Incorrect Values.
-  - [View SQL Script](https://github.com/r-uiz/LA-Web-Traffic-Analysis/blob/main/webtraffic.sql)
+  - [View SQL Script](https://github.com/khaihoang0604/SQL-Portfolio/blob/b6dffcec67880fbd9469ab7f44e206ca136b81b7/Aventure%20Works%20Cycles%20/ExploratoryDataAnalysis.sql)
   - [Original dataset from here.](https://drive.google.com/file/d/1-69OzW3RjLf-opUtUxRd_Ejf1vJ8_sJi/view?usp=share_link)
 - **Project: Coffee Survey**
   - **Description**: This project involves cleaning and transforming [raw coffee survey data](Coffee/GACTT_RESULTS_ANONYMIZED_v2.csv) to prepare it for analysis. The dataset includes information on drinkers' preference, demographic, and extensive attributes related to brew preference, **with 98 columns and 4k+ entries**.
